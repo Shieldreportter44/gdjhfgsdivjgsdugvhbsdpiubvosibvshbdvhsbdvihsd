@@ -2,5 +2,6 @@
   { "key": "ABC123", "expires": "2025-12-31", "hwid": null },
   { "key": "YARALDAYO1", "expires": "2025-12-31", "hwid": null },
   { "key": "YARALDAY1", "expires": "2025-12-31", "hwid": null },
+  { "key": "YARLDAY1", "expires": "2025-12-31", "hwid": null },
   { "key": "YENIKEY123", "expires": "2026-01-01", "hwid": null }
 ]
